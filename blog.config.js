@@ -49,7 +49,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: ''
+      repo: 'RegirX/nobelium-gitalk'
     },
     cusdisConfig: {
       appId: '', // data-app-id
