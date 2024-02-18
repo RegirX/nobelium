@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'RegirX Blog',
-  author: 'RegirX',
-  email: 'i@craigary.net',
+  title: 'Regir·X',
+  author: 'Regir',
+  email: 'regirx@outlook.com',
   link: 'https://www.regir.vip',
-  description: '日常学习小杂记',
+  description: '日常杂记',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://github.com/RegirX',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', '博客', '软件', '算法', '开发', 'embedded', '后端',
       'python', 'C', '笔记', '教程', '极客', 'geek'],
